@@ -53,7 +53,13 @@ qr-code-maker-web-app/
 ---
 
 ## 📸 Screenshots  
-<img src="screenshot1.png" alt="App Screenshot" width="400" height="1000"/>
+
+
+<p align = "center">
+    <img src="screenshot1.png" alt="App Screenshot" width="900" height="1700"/>
+</p>
+
+
 
 ---
 
