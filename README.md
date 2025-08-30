@@ -53,7 +53,7 @@ qr-code-maker-web-app/
 ---
 
 ## 📸 Screenshots  
-(Add screenshots of different customized QR codes – e.g., red/blue QR codes, large/small sizes)
+<img src="screenshot1.png.jpg" alt="App Screenshot" width="400" height="1000"/>
 
 ---
 
