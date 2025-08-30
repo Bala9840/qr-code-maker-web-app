@@ -48,7 +48,7 @@ qr-code-maker-web-app/
 ---
 
 ## 🌐 Live Demo  
-👉 **[Check it here](https://qr-profession.netlify.com)**  
+👉 **[Check it here](https://maker-qr.netlify.app/)**  
 
 ---
 
