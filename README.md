@@ -7,6 +7,7 @@ Users can generate QR codes instantly and customize them with **different sizes,
 
 ---
 
+
 ## 🚀 Features  
 - ✅ Generate QR codes instantly from text or URLs.  
 - 🎨 Customize **QR Code color** (foreground/background).  
